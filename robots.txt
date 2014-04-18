@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://iamsankalp.github.io/blog/sitemap.xml 
+Sitemap: http://www.sankalpagrawal.com/blog/sitemap.xml 

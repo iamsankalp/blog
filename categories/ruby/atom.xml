@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Ruby | Sankalp Agrawal]]></title>
+  <link href="http://www.sankalpagrawal.com/blog/./categories/ruby/atom.xml" rel="self"/>
+  <link href="http://www.sankalpagrawal.com/blog/"/>
+  <updated>2014-04-18T21:51:26+05:30</updated>
+  <id>http://www.sankalpagrawal.com/blog/</id>
+  <author>
+    <name><![CDATA[Sankalp Agrawal]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello, World!]]></title>
+    <link href="http://www.sankalpagrawal.com/blog/2014/04/18/hello-world/"/>
+    <updated>2014-04-18T02:20:50+05:30</updated>
+    <id>http://www.sankalpagrawal.com/blog/2014/04/18/hello-world</id>
+    <content type="html"><![CDATA[<p>This is just a test post to see how it works, how the blog looks like, links, code snippets and all.</p>
+
+<p>Let&rsquo;s do a simple <a href="http://en.wikipedia.org/wiki/Hello_world_program">Hello World Program</a> for that.</p>
+
+<p>``` java Print Hello, World! in Java
+public class HelloWorld {</p>
+
+<pre><code>public static void main(String [] args) {
+    System.out.println("Hello, World!");
+}
+</code></pre>
+
+<p>}
+```</p>
+
+<p>Just the final steps&hellip;</p>
+
+<p>``` ruby Fire up Git Bash</p>
+
+<h1>Go to the directory where octopress is</h1>
+
+<p>cd c:/github/octopress # for me
+rake generate # Generate to the proper format
+rake preview # Check how it looks like by visiting localhost:4000/blog in Chrome
+rake deploy # Add, Commit, Push to the repo
+```</p>
+
+<p>Looks nice!</p>
+
+<p>Ok then, that&rsquo;s all for now!</p>
+
+<p>Watch out for better posts coming up. ;)</p>
+]]></content>
+  </entry>
+  
+</feed>

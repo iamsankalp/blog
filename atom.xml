@@ -1,16 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://iamsankalp.github.io/blog/atom.xml" rel="self"/>
-  <link href="http://iamsankalp.github.io/blog/"/>
-  <updated>2014-04-18T21:46:18+05:30</updated>
-  <id>http://iamsankalp.github.io/blog/</id>
+  <title><![CDATA[Sankalp Agrawal]]></title>
+  <link href="http://www.sankalpagrawal.com/blog/atom.xml" rel="self"/>
+  <link href="http://www.sankalpagrawal.com/blog/"/>
+  <updated>2014-04-18T21:51:26+05:30</updated>
+  <id>http://www.sankalpagrawal.com/blog/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Sankalp Agrawal]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello, World!]]></title>
+    <link href="http://www.sankalpagrawal.com/blog/2014/04/18/hello-world/"/>
+    <updated>2014-04-18T02:20:50+05:30</updated>
+    <id>http://www.sankalpagrawal.com/blog/2014/04/18/hello-world</id>
+    <content type="html"><![CDATA[<p>This is just a test post to see how it works, how the blog looks like, links, code snippets and all.</p>
+
+<p>Let&rsquo;s do a simple <a href="http://en.wikipedia.org/wiki/Hello_world_program">Hello World Program</a> for that.</p>
+
+<figure class='code'><figcaption><span>Print Hello, World! in Java</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='java'><span class='line'><span class="kd">public</span> <span class="kd">class</span> <span class="nc">HelloWorld</span> <span class="o">{</span>
+</span><span class='line'>    <span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">main</span><span class="o">(</span><span class="n">String</span> <span class="o">[]</span> <span class="n">args</span><span class="o">)</span> <span class="o">{</span>
+</span><span class='line'>        <span class="n">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(</span><span class="s">&quot;Hello, World!&quot;</span><span class="o">);</span>
+</span><span class='line'>    <span class="o">}</span>
+</span><span class='line'><span class="o">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Just the final steps&hellip;</p>
+
+<figure class='code'><figcaption><span>Fire up Git Bash</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="c1"># Go to the directory where octopress is</span>
+</span><span class='line'><span class="n">cd</span> <span class="ss">c</span><span class="p">:</span><span class="sr">/github/o</span><span class="n">ctopress</span> <span class="c1"># for me</span>
+</span><span class='line'><span class="n">rake</span> <span class="n">generate</span> <span class="c1"># Generate to the proper format</span>
+</span><span class='line'><span class="n">rake</span> <span class="n">preview</span> <span class="c1"># Check how it looks like by visiting localhost:4000/blog in Chrome</span>
+</span><span class='line'><span class="n">rake</span> <span class="n">deploy</span> <span class="c1"># Add, Commit, Push to the repo</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Looks nice!</p>
+
+<p>Ok then, that&rsquo;s all for now!</p>
+
+<p>Watch out for better posts coming up. ;)</p>
+]]></content>
+  </entry>
   
 </feed>
