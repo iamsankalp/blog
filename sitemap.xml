@@ -2,19 +2,23 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://www.sankalpagrawal.com/blog/2014/04/18/hello-world/</loc>
-        <lastmod>2014-04-18T04:04:11+05:30</lastmod>
+        <lastmod>2014-04-18T22:16:32+05:30</lastmod>
     </url>
     <url>
         <loc>http://www.sankalpagrawal.com/blog/archives/</loc>
-        <lastmod>2014-04-18T04:04:11+05:30</lastmod>
+        <lastmod>2014-04-18T22:16:32+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://www.sankalpagrawal.com/blog/blog/archives/</loc>
+        <lastmod>2014-04-18T22:16:32+05:30</lastmod>
     </url>
     <url>
         <loc>http://www.sankalpagrawal.com/blog/blog/categories/</loc>
-        <lastmod>2014-04-18T01:15:02+05:30</lastmod>
+        <lastmod>2014-04-18T22:16:32+05:30</lastmod>
     </url>
     <url>
         <loc>http://www.sankalpagrawal.com/blog/</loc>
-        <lastmod>2014-04-18T04:04:11+05:30</lastmod>
+        <lastmod>2014-04-18T22:16:32+05:30</lastmod>
     </url>
     <url>
         <loc>http://www.sankalpagrawal.com/blog/robots.txt</loc>
