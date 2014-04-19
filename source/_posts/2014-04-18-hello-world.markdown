@@ -25,7 +25,7 @@ Just the final steps...
 
 ``` ruby Fire up Git Bash
 # Go to the directory where octopress is
-cd c:/github/octopress # for me
+cd c:/github/blog # for me
 rake generate # Generate to the proper format
 rake preview # Check how it looks like by visiting localhost:4000/blog in Chrome
 rake deploy # Add, Commit, Push to the repo
