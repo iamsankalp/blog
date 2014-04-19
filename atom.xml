@@ -4,7 +4,7 @@
   <title><![CDATA[Sankalp Agrawal]]></title>
   <link href="http://www.sankalpagrawal.com/blog/atom.xml" rel="self"/>
   <link href="http://www.sankalpagrawal.com/blog/"/>
-  <updated>2014-04-18T22:42:06+05:30</updated>
+  <updated>2014-04-19T09:46:56+05:30</updated>
   <id>http://www.sankalpagrawal.com/blog/</id>
   <author>
     <name><![CDATA[Sankalp Agrawal]]></name>
@@ -43,7 +43,7 @@
 <span class='line-number'>4</span>
 <span class='line-number'>5</span>
 </pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="c1"># Go to the directory where octopress is</span>
-</span><span class='line'><span class="n">cd</span> <span class="ss">c</span><span class="p">:</span><span class="sr">/github/o</span><span class="n">ctopress</span> <span class="c1"># for me</span>
+</span><span class='line'><span class="n">cd</span> <span class="ss">c</span><span class="p">:</span><span class="sr">/github/</span><span class="n">blog</span> <span class="c1"># for me</span>
 </span><span class='line'><span class="n">rake</span> <span class="n">generate</span> <span class="c1"># Generate to the proper format</span>
 </span><span class='line'><span class="n">rake</span> <span class="n">preview</span> <span class="c1"># Check how it looks like by visiting localhost:4000/blog in Chrome</span>
 </span><span class='line'><span class="n">rake</span> <span class="n">deploy</span> <span class="c1"># Add, Commit, Push to the repo</span>

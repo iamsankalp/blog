@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Java | Sankalp Agrawal]]></title>
   <link href="http://www.sankalpagrawal.com/blog/./categories/java/atom.xml" rel="self"/>
   <link href="http://www.sankalpagrawal.com/blog/"/>
-  <updated>2014-04-18T22:42:06+05:30</updated>
+  <updated>2014-04-19T09:46:56+05:30</updated>
   <id>http://www.sankalpagrawal.com/blog/</id>
   <author>
     <name><![CDATA[Sankalp Agrawal]]></name>
@@ -39,7 +39,7 @@ public class HelloWorld {</p>
 
 <h1>Go to the directory where octopress is</h1>
 
-<p>cd c:/github/octopress # for me
+<p>cd c:/github/blog # for me
 rake generate # Generate to the proper format
 rake preview # Check how it looks like by visiting localhost:4000/blog in Chrome
 rake deploy # Add, Commit, Push to the repo
