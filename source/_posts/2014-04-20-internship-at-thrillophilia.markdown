@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Internship Experience at Thrillophilia"
-date: 2014-04-20 17:04:13 +0530
+date: 2014-04-21 12:04:13 +0530
 comments: true
 author: Sankalp Agrawal
 categories: Experience
@@ -17,7 +17,7 @@ As per Alexa traffic rankings, Thrillophilia is among the top 20 Travel Web site
 *This post was originally written in Aug, 2013 and is a complete re-post of the same.*
 
 ---------- 
-<br>
+<br><!-- more -->
 **Heads up**
 
 * This one is a little long. There are excruciating details at times.
