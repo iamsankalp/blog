@@ -4,7 +4,7 @@
   <title><![CDATA[Sankalp Agrawal]]></title>
   <link href="http://www.sankalpagrawal.com/blog/atom.xml" rel="self"/>
   <link href="http://www.sankalpagrawal.com/blog/"/>
-  <updated>2014-04-21T18:18:38+05:30</updated>
+  <updated>2015-01-01T17:25:17+05:30</updated>
   <id>http://www.sankalpagrawal.com/blog/</id>
   <author>
     <name><![CDATA[Sankalp Agrawal]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[test from mac]]></title>
+    <link href="http://www.sankalpagrawal.com/blog/2015/01/01/test-from-mac/"/>
+    <updated>2015-01-01T17:22:02+05:30</updated>
+    <id>http://www.sankalpagrawal.com/blog/2015/01/01/test-from-mac</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Internship Experience at Thrillophilia]]></title>
